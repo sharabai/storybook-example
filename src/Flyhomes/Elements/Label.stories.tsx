@@ -10,7 +10,7 @@ const meta = {
   parameters: {
     layout: "centered",
   },
-  tags: ["autodocs"],
+  tags: ["autodocs", "UI", "Button"],
   args: {},
 } satisfies Meta<typeof Label>;
 
